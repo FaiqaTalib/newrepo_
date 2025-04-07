@@ -1,0 +1,263 @@
+* {
+    padding: 0;
+    margin: 0;
+}
+
+nav {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    background-color: black;
+    color: white;
+    height: 50px;
+}
+
+nav ul {
+    display: flex;
+    justify-content: center;
+}
+
+nav ul li {
+    list-style: none;
+    margin: 25px;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+
+nav ul li a {
+    text-decoration: none;
+    color: white;
+}
+
+nav ul li a:hover {
+    cursor: pointer;
+    transition: 0.7s;
+    color: rgb(127, 126, 131);
+}
+
+.first {
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    font-size: 30px;
+    margin-left: 80px;
+}
+
+.container {
+    margin-top: 35px;
+}
+
+.container1 {
+    display: flex;
+    justify-content: center;
+}
+
+.border1 {
+    margin: 7px;
+    padding: 20px;
+    border: 4px solid black;
+    background-color: grey;
+    color: white;
+    border-radius: 15px;
+    text-align: center;
+    font-family: cursive;
+    cursor: pointer;
+}
+
+.border1:hover {
+    transform: scale(1.1);
+    z-index: 1;
+    color: aqua;
+}
+
+.img1 {
+    height: 110px;
+    width: 220px;
+    border-radius: 15px;
+    border-style: inherit;
+    cursor: pointer;
+}
+
+.border2 {
+    margin: 7px;
+    padding: 20px;
+    border: 4px solid black;
+    background-color: grey;
+    color: white;
+    border-radius: 15px;
+    text-align: center;
+    font-family: cursive;
+    cursor: pointer;
+}
+
+.border2:hover {
+    transform: scale(1.1);
+    z-index: 1;
+    color: aqua;
+}
+
+.img2 {
+    height: 110px;
+    width: 220px;
+    border-radius: 15px;
+    border-style: inherit;
+    cursor: pointer;
+}
+
+.border3 {
+    margin: 7px;
+    padding: 20px;
+    border: 4px solid black;
+    background-color: grey;
+    color: white;
+    border-radius: 15px;
+    text-align: center;
+    font-family: cursive;
+    cursor: pointer;
+}
+
+.border3:hover {
+    transform: scale(1.1);
+    z-index: 1;
+    color: aqua;
+}
+
+.img3 {
+    height: 110px;
+    width: 220px;
+    border-radius: 15px;
+    border-style: inherit;
+    cursor: pointer;
+}
+
+.border4 {
+    margin: 7px;
+    padding: 20px;
+    border: 4px solid black;
+    background-color: grey;
+    color: white;
+    border-radius: 15px;
+    text-align: center;
+    font-family: cursive;
+    cursor: pointer;
+}
+
+.border4:hover {
+    transform: scale(1.1);
+    z-index: 1;
+    color: aqua;
+}
+
+.img4 {
+    height: 110px;
+    width: 220px;
+    border-radius: 15px;
+    border-style: inherit;
+    cursor: pointer;
+}
+
+.container2 {
+    display: flex;
+    justify-content: center;
+}
+
+.border5 {
+    margin: 7px;
+    padding: 20px;
+    border: 4px solid black;
+    background-color: grey;
+    color: white;
+    border-radius: 15px;
+    text-align: center;
+    font-family: cursive;
+    cursor: pointer;
+}
+
+.border5:hover {
+    transform: scale(1.1);
+    z-index: 1;
+    color: aqua;
+}
+
+.img5 {
+    height: 110px;
+    width: 220px;
+    border-radius: 15px;
+    border-style: inherit;
+    cursor: pointer;
+}
+
+.border6 {
+    margin: 7px;
+    padding: 20px;
+    border: 4px solid black;
+    background-color: grey;
+    color: white;
+    border-radius: 15px;
+    text-align: center;
+    font-family: cursive;
+    cursor: pointer;
+}
+
+.border6:hover {
+    transform: scale(1.1);
+    z-index: 1;
+    color: aqua;
+}
+
+.img6 {
+    height: 110px;
+    width: 220px;
+    border-radius: 15px;
+    border-style: inherit;
+    cursor: pointer;
+}
+
+.border7 {
+    margin: 7px;
+    padding: 20px;
+    border: 4px solid black;
+    background-color: grey;
+    color: white;
+    border-radius: 15px;
+    text-align: center;
+    font-family: cursive;
+    cursor: pointer;
+}
+
+.border7:hover {
+    transform: scale(1.1);
+    z-index: 1;
+    color: aqua;
+}
+
+.img7 {
+    height: 110px;
+    width: 220px;
+    border-radius: 15px;
+    border-style: inherit;
+    cursor: pointer;
+}
+
+.border8 {
+    margin: 7px;
+    padding: 20px;
+    border: 4px solid black;
+    background-color: grey;
+    color: white;
+    border-radius: 15px;
+    text-align: center;
+    font-family: cursive;
+    cursor: pointer;
+}
+
+.border8:hover {
+    transform: scale(1.1);
+    z-index: 1;
+    color: aqua;
+}
+
+.img8 {
+    height: 110px;
+    width: 220px;
+    border-radius: 15px;
+    border-style: inherit;
+    cursor: pointer;
+}
